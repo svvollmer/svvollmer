@@ -8,9 +8,9 @@ I'm a professor at Northeastern University in Boston, MA and a research associat
 
 I use genomics to study how corals resist global threats like rising temperatures and disease outbreaks.
 
-# More about me:
+### More about me:
 -PhD        Harvard University
 -PostDocs   Smithsonian Tropical Research Institute
 
-#Fun facts: 
+#### Fun facts: 
 Surfer, fisher, hiker, and Westy enthusiast
