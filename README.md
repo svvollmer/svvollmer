@@ -2,9 +2,9 @@
 
 ## Hi there,
 
-I'm Steve Vollmer - Evolutionary Biologist, Genetist, and Bioinformatician.
+I'm Steve Vollmer - Evolutionary Biologist, Geneticist, and Bioinformatician.
 
-I'm a professor at Northeastern University in Boston, MA and a research associate at the Smithsonian Tropical Research Institute in Panama.
+I'm a professor at [Northeastern University](https://www.northeastern.edu/) in Boston, MA and a research associate at the [Smithsonian Tropical Research Institute](https://stri.si.edu/) in Panama.
 
 I use genomics to study how corals resist global threats like rising temperatures and disease outbreaks.
 
